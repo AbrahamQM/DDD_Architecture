@@ -1,0 +1,2 @@
+https://github.com/acloudfan/MSFA-ACME-Sales-v1.0.git
+https://github.com/acloudfan/MSFA-ACME-Products-v1.0.git
